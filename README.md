@@ -89,7 +89,7 @@ Despite the satisfactory metric values of our model, the accuracy is not very hi
 - Finally, additional patient information, such as medical history and symptoms, among others, would bring very powerful information to help the model make better predictions.
 
 **Project Collaborators:**
-[Maria Kalimeri](https://github.com/mkalimeri)
-[James Franco](https://github.com/jifdata)
-[Venkataraman Muthuramalingam](https://github.com/devfulcrum)
-[Sahil Sakhuja](https://github.com/sahilsakhuja)
+- [Maria Kalimeri](https://github.com/mkalimeri)
+- [James Franco](https://github.com/jifdata)
+- [Venkataraman Muthuramalingam](https://github.com/devfulcrum)
+- [Sahil Sakhuja](https://github.com/sahilsakhuja)
